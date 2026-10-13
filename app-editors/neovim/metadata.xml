@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<!-- maintainer-needed -->
+	<use>
+		<flag name="nvimpager">Install a /usr/bin/nvimpager symlink that uses Neovim as a pager</flag>
+	</use>
+	<upstream>
+		<remote-id type="github">neovim/neovim</remote-id>
+		<bugs-to>https://github.com/neovim/neovim/issues</bugs-to>
+		<doc>https://neovim.io/doc/</doc>
+	</upstream>
+</pkgmetadata>
